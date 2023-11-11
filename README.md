@@ -6,7 +6,7 @@
 * Programa/codifíque con el lenguaje de alto nivel Java (IDE NetBeans), sus soluciones a cada uno de los problemas listados a continuación. 
 * Para cada programa, genere una clase independiente pero dentro de un solo/único proyecto Java App. No olvide titular a cada clase, con el nombre representativo de la solución y con el número del problema de este listado. 
 * Verificar que sus soluciones son correctas con las técnicas de compilación, ejecución y depurado de programas.
-* Al ser un repo
+* Al ser una tarea grupal por favor desarrollarla colaborativamente. 
 
 ### Listado de problemáticas:
 
