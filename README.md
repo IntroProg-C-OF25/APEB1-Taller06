@@ -26,10 +26,10 @@
 * Problema-2
 > **Clasificación de un triángulo** Dado tres valores que representan las longitudes de los lados de un triángulo, determinar su tipo. Las reglas son:
 
-- Si todos los lados son iguales, mostrar "Triángulo equilátero".
-- Si dos lados son iguales, mostrar "Triángulo isósceles".
-- Si todos los lados son diferentes, mostrar "Triángulo escaleno".
-- Si la suma de dos lados no es mayor que el tercer lado, mostrar "No es un triángulo".
+> - Si todos los lados son iguales, mostrar "Triángulo equilátero".
+> - Si dos lados son iguales, mostrar "Triángulo isósceles".
+> - Si todos los lados son diferentes, mostrar "Triángulo escaleno".
+> - Si la suma de dos lados no es mayor que el tercer lado, mostrar "No es un triángulo".
 
 * Problema-3
 > **Costo de envío de paquetes** Un servicio de envío cobra diferentes tarifas según la región y el peso del paquete. Si el peso es menor de 5 kg y la región es "local", el costo es de $5. Si pesa entre 5 y 10 kg, el costo es de $10 para la región "nacional". Para cualquier otro caso, el costo es de $15.
