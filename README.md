@@ -34,5 +34,10 @@
 * Problema-3
 > **Costo de envío de paquetes** Un servicio de envío cobra diferentes tarifas según la región y el peso del paquete. Si el peso es menor de 5 kg y la región es "local", el costo es de $5. Si pesa entre 5 y 10 kg, el costo es de $10 para la región "nacional". Para cualquier otro caso, el costo es de $15.
 
+* Problema-4
+> **Convertir un número de mes a nombre.** Dado un número del 1 al 12, que representa un mes del año, muestra el nombre del mes correspondiente. Por ejemplo, si el usuario ingresa 1, debe mostrar "Enero"; si ingresa 2, debe mostrar "Febrero", y así sucesivamente.
+
+* Problema-5
+> **Determinar el tipo de operación matemática.** Dado un número del 1 al 4 que representa una operación matemática básica (suma, resta, multiplicación, división), muestra el nombre de la operación correspondiente. Por ejemplo, si el usuario ingresa 1, debe mostrar "Suma"; si ingresa 2, debe mostrar "Resta", y así sucesivamente.
 
 **Mucho aprendizaje en este taller 6**
