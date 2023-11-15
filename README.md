@@ -25,7 +25,7 @@
 
 * Problema-2
 > **Clasificación de un triángulo** Dado tres valores que representan las longitudes de los lados de un triángulo, determinar su tipo. Las reglas son:
-
+> 
 > - Si todos los lados son iguales, mostrar "Triángulo equilátero".
 > - Si dos lados son iguales, mostrar "Triángulo isósceles".
 > - Si todos los lados son diferentes, mostrar "Triángulo escaleno".
