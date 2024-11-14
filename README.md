@@ -22,7 +22,6 @@
 > 	a.	Si el subtotal de la compra (sin descuentos o gastos de envío), supera los $1000, se le otorga un 20% de descuento; y si es al menos los $1000 el descuento es como mínimo 5%.
 > 	b.	Adicional, si la compra es mayor a $5000, el envío será gratuito. 
 > 	c.	El IVA del 10% se debe aplicar a todos los artículos antes de agregar cualquier tipo de descuesto o promoción. 
-> 4.	A continuación, algunos ejemplos de una factura modelo: 
 
 
 ### Problema-2
